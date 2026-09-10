@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <?xml-model
+  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"
+  type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader> 
+        <fileDesc>
+
+            <titleStmt>
+                <title xml:id="llc_exordio">Fragmento de El lazarillo de ciegos caminantes - Exordio</title>
+                <author>Alonso Carrió de la Vandera</author>
+                <editor resp="digital">Jacinta Casabal Pereda</editor>  
+                
+             </titleStmt>
+
+            <publicationStmt>
+                <publisher>Nombre de la asignatura</publisher>
+                <availability>
+                    <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+                </availability>
+            </publicationStmt>
+
+            <sourceDesc>
+            <bibl>
+                <title> El lazarillo de ciegos caminantes desde Buenos Aires, hasta Lima con sus itinerarios según la más puntual observación, con algunas noticias útiles a los Nuevos Comerciantes que tratan en Mulas ; y otras históricas / sacado de las memorias que hizo Don Alonso Carrió de la Vandera en este dilatado viaje....; por Don Calixto Bustamante Carlos Inca, alias Concolorcorvo natural de Cuzco.</title>
+                <author>Alonso Carrió de la Vandera</author>
+                <publisher>Imprenta de la Rovada</publisher> 
+                <date>1773</date>
+                <pubPlace>Lima, Perú</pubPlace>
+                <objectIdentifier>   
+                    <institution>Biblioteca Nacional (España)</institution>
+                    <idno>sig. R/22795</idno>
+             
+                </objectIdentifier>
+                </bibl>
+            </sourceDesc>
+
+        </fileDesc>
+    </teiHeader>
+<text>
+<body>
+
+<pb n="L7"/><p>más curiosos montan a caballo y se adelantan o atrasan a su arbitrio, reconociendo los ranchos y sus campestres habitadores, que regularmente son mujeres, porque los hombres salen a campear antes de amanecer y no vuelven hasta que el sol los apura, y muchas veces el hambre, que sacian con cuatro libras netas de carne gorda y descansada, que así llaman ellos a la que acaban de traer del monte y matan sobre la marcha, porque en algunas poblaciones grandes, como es <placeName key="bsas">Buenos Aires</placeName>, sucedía antes y sucedió siempre en las grandes matanzas, arrean una punta considerable, desgarretándola por la tarde, y tendidas en la campaña o playa aquellas míseras víctimas braman hasta el día siguiente, que las degüellan y dividen ensangrentadas; y a ésta llaman carne cansada, y yo envenenada.</p>
+
+<p>La regular jornada de las tropas del <placeName key="tucuman">Tucumán</placeName>, que así llaman, como en otras partes, una colección de carretas que van juntas, es de siete leguas, aunque por el tránsito de los muchos ríos he regulado yo que no pasan de cinco, un día con otro. Los mendocinos hacen mayores jornadas porque su territorio es escampado con pocos ríos y muchas travesías, que lla<pb n="L8"/>man así a los dilatados campos sin agua. Para éstas, y en particular para la de <placeName key="corocoro">Corocoro</placeName>, tienen varias paradas de bueyes diestros, que llaman rocines. El resto del ganado marcha a la ligera y los rocines sacan las carretas cargadas sin beber muchas veces en 48 horas, con la prevención de que si el desaguadero lleva poca agua, tampoco la beben, porque conocen que está amarga e infeccionada, y, al contrario, el ganado bisoño, que aunque le arreen con precipitación siempre bebe, de lo que se experimentan algunas enfermedades y, a veces, mortandades considerables. En estas travesías sólo se para por la siesta, si apura mucho el sol, por lo que es preciso que los criados se prevengan de fiambres para la noche, aunque lo más seguro es adelantarse por la tarde llevando algunos palos de leña y lo necesario para hacer la cena, con atención que estos diestros bueyes caminan mucho y con brevedad por la tarde, noche y mañana, procurando también informarse del sitio a donde van a remudar para que haya tiempo suficiente para acomodar los trastos de cocina y demás sin atraso del carretero, no fiándose mucho de los criados que como por lo regular son negros bozales, pierden mu</p>
+
+</body>
+</text>
+
+</TEI> 
